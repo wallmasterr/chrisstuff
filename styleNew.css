@@ -1,0 +1,39 @@
+@charset "utf-8";
+.headerinner {
+	background-color: #00FFFF;
+	width: 800px;
+	margin: auto;
+}
+
+.headerwraper {
+	width: 100%;
+	position: absolute;
+	height: 115px;
+	left: 0px;
+	top: 0px;
+}
+.footerinner {
+	background-color: #00CC33;
+}
+.footerwraper {
+	background-color: #33FFFF;
+}
+
+.maininner .thumbs img {
+	padding: 15px;
+
+}
+
+.mainwraper {
+	background-image: url(images/bgTilable.jpg);
+	position: absolute;
+	top: 115px;
+	width: 100%;
+	left: 0px;
+}
+.maininner {
+	width: 800px;
+	margin: auto;
+	color: 993399;
+	font-family: Arial, Helvetica, sans-serif;
+}
